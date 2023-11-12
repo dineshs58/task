@@ -1,0 +1,20 @@
+.comes1
+{
+    background-color:gainsboro ;
+    width: 500px;
+    height: 500px;
+    border-radius: 10px;
+    margin-left: 10px;
+    
+   
+}
+label
+{
+    color: white!important;
+    margin-bottom: 10px;
+}
+.inputs:focus
+{
+    box-shadow: none;
+    
+}

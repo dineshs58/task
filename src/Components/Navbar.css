@@ -1,0 +1,122 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.menu
+{
+   color: white!important;
+   background-color: white!important;
+}
+.menu:focus
+{
+   box-shadow: none;
+}
+.nav-bar
+{
+    background: black!important;
+} 
+.logo
+{
+    margin-left: 15px;
+}
+
+.home
+{
+    color: white!important;
+    font-weight: bolder;
+}
+.home:hover
+{
+   background-color: orange;
+   color: white;
+}
+
+.foot
+{
+   background-color: black;
+   color:white;
+}
+
+
+
+.home,
+.about,
+.our,
+.shop,
+.services,
+.newcycle,
+.contact,
+.login
+{
+    color: white!important;
+    font-weight: bolder;
+    margin: 0px 18px;
+    margin-right: 10px;
+    padding: 10px 15px;
+    font-size: 18px;
+   
+}
+
+
+.home:hover
+{
+   background-color: orange;
+   color: white;
+   border-radius: 3px;
+}
+
+
+.about:hover
+{
+   background-color: orange;
+   color: white;
+   border-radius: 3px;
+}
+
+.our:hover
+{
+   background-color: orange;
+   color: white;
+   border-radius: 3px;
+}
+
+
+.shop:hover
+{
+   background-color: orange;
+   color: white;
+   border-radius: 3px;
+}
+
+
+.services:hover
+{
+   background-color: orange;
+   color: white;
+   border-radius: 3px;
+}
+
+
+.newcycle:hover
+{
+   background-color: orange;
+   color: white;
+   border-radius: 3px;
+}
+
+
+.contact:hover
+{
+   background-color: orange;
+   color: white;
+   border-radius: 3px;
+}
+
+
+.login:hover
+{
+   background-color: orange;
+   color: white;
+   border-radius: 3px;
+}
